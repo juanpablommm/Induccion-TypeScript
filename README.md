@@ -7,5 +7,6 @@
 * [Clases, Objects, Methods and Atributes](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/Persona.ts)
 * [Herencia](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/herencia.ts)
 * [Soobrescritura de metodos](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/sobreescrituraMetodos.ts)
+* [modificadores de acceso (private, public, protected, readonly)]()
 
 
