@@ -10,5 +10,5 @@
 * [modificadores de acceso (private, public, protected, readonly)](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/modificadoresAcceso.ts)
 * [getters and setters (get nombre(){ this._nombre})](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/getterAndSetter.ts)
 * [atributos y metodos static](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/static.ts) 
-
-
+* [interfaces ("estas pueden declarar atributos")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/interfaces.ts)
+* [clases abstractas ("estas necesitan de un constructor para inicilizar sus atributos, constructor que sera llamado desde las clases hijas")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/clasesAbstractas.ts)
