@@ -12,5 +12,6 @@
 * [atributos y metodos static](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/static.ts) 
 * [interfaces ("estas pueden declarar atributos")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/interfaces.ts)
 * [clases abstractas ("se pueden declarar oatributos abstractos")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/clasesAbstractas.ts)
-5. [namescpace, brindando un identificador a clases, variables, interfaces, ect, para evitar coliccion](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/nameSpaces.ts)
-6. [untionTypes brindando dos o mas tipos de datos a atributos](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/unionTypes.ts)
+5. [namescpace, brindando un identificador a clases, variables, interfaces, ect, para evitar coliccion](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/nameSpaces.ts)
+6. [untionTypes brindando dos o mas tipos de datos a atributos](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/unionTypes.ts)
+7. [types guards conociendo el tipo especifico de un union types](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/typeGuards.ts)
