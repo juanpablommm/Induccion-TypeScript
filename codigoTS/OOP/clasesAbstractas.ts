@@ -39,3 +39,8 @@ class Hero extends Asset{
     }
 }
 
+/*cabe recordar y tener en cuanta que al igual que las interfaces las clases abstractas no 
+pueden tener una instancia, a pesar que en typeScrip las clases abstractas manejan un constructor,
+solo podemos declrar los object de tipo de la clase abstract y hacer la instancia con lca clase hija 
+en particular */
+let asset: Asset = new Hero(12, 12, 12, 12);
