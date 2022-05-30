@@ -20,3 +20,7 @@
 10. [types aliases, "type" nos nada mas que agregar un alias a un variiable o objecto con el fin de identificarlo mas facil, primordialmente para utilizarce con types union, e intersections](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/typesAliases.ts)
 11. [Tuplas, arreglos en los cuales se declara los dos primeros tipos de datos y lo sigueitnes son types union](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/typesTuplas.ts)
 12. [enums, constanttes agurpadas bajo un bloque de codigo, funcionan igual que en java, pero solo con types string o number](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/enums.ts)
+---
+### [Decoradores](https://github.com/juanpablommm/Induccion-TypeScript/tree/master/codigoTS/Decoradores)
+Es un patron de programacion en el que tomamos algo; una propiedad, una clase, metodo etc, y lo decoramos, agregando funcionalidades y cosas para retornarlo decorado, el proposito es extender la funcionalidad de otro componente sin modificarlo constantemente
+1. [Decoradores de clase, decorar una clase agregando atributos y metodos](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Decoradores/DecoradoresDeClases.ts)

@@ -1,6 +1,6 @@
 //DECORADORES
 /**
- * Es un patro de programacion en el que tomamos 
+ * Es un patron de programacion en el que tomamos 
  algo, una propiedad, una clase, metodo etc,
  y lo decoramos, agregando funcionalidades, cosas 
  y retornarlo decorado, el proposito es extender la funcionalidad 
