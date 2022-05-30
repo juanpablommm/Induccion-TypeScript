@@ -13,5 +13,7 @@
 * [interfaces ("estas pueden declarar atributos")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/interfaces.ts)
 * [clases abstractas ("se pueden declarar oatributos abstractos")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/OOP/clasesAbstractas.ts)
 5. [namescpace, brindando un identificador a clases, variables, interfaces, ect, para evitar coliccion](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/nameSpaces.ts)
-6. [untionTypes brindando dos o mas tipos de datos a atributos](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/unionTypes.ts)
+6. [untionTypes brindando dos o mas tipos de datos a atributos (es uno o es otro "or")](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/unionTypes.ts)
 7. [types guards conociendo el tipo especifico de un union types](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/typeGuards.ts)
+8. [types intersections, fucionando dos tipos de datos en un nuevo object o variable (es esto y es esto otro "and"](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/intersectionTypes.ts)
+9. [types assertions, redefiniendo un tipo de dato, para que no se infiera de manera automatica (algo similar a un casting pero no lo es)](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/intersectionTypes.ts)
