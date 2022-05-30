@@ -19,4 +19,4 @@
 9. [types assertions, redefiniendo un tipo de dato, para que no se infiera de manera automatica (algo similar a un casting pero no lo es)](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/intersectionTypes.ts)
 10. [types aliases, "type" nos nada mas que agregar un alias a un variiable o objecto con el fin de identificarlo mas facil, primordialmente para utilizarce con types union, e intersections](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/typesAliases.ts)
 11. [Tuplas, arreglos en los cuales se declara los dos primeros tipos de datos y lo sigueitnes son types union](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/typesTuplas.ts)
-12. [enums, constanttes agurpadas bajo un bloque de codigo, funcionan igual que en java, pero solo con types string o number]()
+12. [enums, constanttes agurpadas bajo un bloque de codigo, funcionan igual que en java, pero solo con types string o number](https://github.com/juanpablommm/Induccion-TypeScript/blob/master/codigoTS/Tipos%20avanzados/enums.ts)
